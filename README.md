@@ -21,13 +21,14 @@ Version v1.01
 Added products.
 
 Version v1.02
-Added checkout page.
+Added cart functionality
+
 
 Version v1.03
 Added revolving banners.
 
 Version v1.04
-Added cart functionality. Added location.
+Added checkout page.. Added location.
 
 Version v1.05
 Added context API prop drilling. Added Google login.
