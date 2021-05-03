@@ -1,4 +1,4 @@
-Amazon React Clone Challenge v1.05 - Material UI, Context API, Axios API, Stripe API, ESLint
+Amazon React Clone Challenge v1.06 - Material UI, Context API, Axios API, Stripe API, ESLint.
 
 Coded by Kevin Roozrokh: https://kevinroozrokh.github.io/
 
@@ -21,14 +21,16 @@ Version v1.01
 Added products.
 
 Version v1.02
-Added cart functionality
-
+Added checkout page.
 
 Version v1.03
 Added revolving banners.
 
 Version v1.04
-Added checkout page.. Added location.
+Added cart functionality. Added location.
 
 Version v1.05
-Added context API prop drilling. Added Google login.
+Added context API login with authentication.
+
+Version v1.06
+Fixed flex alignment issues.
