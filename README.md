@@ -1,4 +1,4 @@
-Amazon React Clone Challenge v1.06 - Material UI, Context API, Axios API, Stripe API, ESLint.
+Amazon React Clone Challenge v1.06 - Material UI, Context API, Axios API, Stripe API, ESLint. Google Login.
 
 ---
 
