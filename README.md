@@ -1,3 +1,4 @@
+# amazon-clone
 `Amazon React Clone Challenge` v1.06 - ReactJS, Material UI, Context API, Axios API, Stripe API, ESLint. Google Login, location, add to cart and shopping cart are functional.
 
 ---
